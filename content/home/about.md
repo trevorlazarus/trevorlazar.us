@@ -33,7 +33,7 @@ weight = 5
 # Biography
 
 
-I am a researcher/developer in distributed ledger and semantic technologies. His interests include decentralized scholarly publication, linked data and reactive programming paradigms.
+I am a researcher/developer in distributed ledger and semantic technologies. My interests include decentralized scholarly publication, linked data and reactive programming paradigms.
 
-He has currently accepted a job offer from Jaguar Land Rover. He plans to join the team at one of JLR's principle engineering centres in February, 2019.
+I've currently accepted a job offer from Jaguar Land Rover and plan to join the team at one of JLR's principle engineering centres in February, 2019.
 

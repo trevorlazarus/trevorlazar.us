@@ -27,22 +27,35 @@ weight = 7
   name = "R"
   description = "90%"
   
+  
+[[feature]]
+  icon = "angular"
+  icon_pack = "fab"
+  name = "Angular"
+  description = "90%"
+  
+  [[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "95%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  
+
   [[feature]]
-  icon = "camera-retro"
+  icon = "terminal"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Shell"
+  description = "90%"  
+
+  [[feature]]
+  icon = "drupal"
+  icon_pack = "fab"
+  name = "Drupal"
+  description = "80%"  
 
 +++
