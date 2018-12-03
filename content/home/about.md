@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Semantic Web",
-    "Distributed Ledeger Technologies",
-    "Embedded Systems Programming"
+    "Distributed Ledgers",
+    "Embedded Systems"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,7 +33,7 @@ weight = 5
 # Biography
 
 
-Trevor Michael Lazarus is a researcher/developer in distributed ledger and semantic technologies. His interests include decentralized scholarly publication, linked data and reactive programming paradigms.
+I am a researcher/developer in distributed ledger and semantic technologies. His interests include decentralized scholarly publication, linked data and reactive programming paradigms.
 
-He is currently employed by Jaguar Land Rover and is awaiting his U.K. Visa. He plans to join the team at JLR's principle engineering centres in February, 2019.
+He has currently accepted a job offer from Jaguar Land Rover. He plans to join the team at one of JLR's principle engineering centres in February, 2019.
 
