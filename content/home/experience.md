@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Semantic Web Architect"
+  company = "Newgen Knowledge Works"
+  company_url = "http://www.newgen.co/"
+  location = "Chennai, IN."
+  date_start = "2015-04-13"
+  date_end = "2018-05-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Ontology Engineering
+  * Data Converion Pipeline
+  * Provisioning Google Cloud Resources
+  * Lead the development of IOS Press - Linked Data Connect
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Technical Consultant"
+  company = "Independent"
+  company_url = "http://trevorlazar.us"
+  location = "Geneva, CH. / Chennai, IN."
+  date_start = "2018-06-01"
+  description = """Mainly building serverless progressive web applications using Ionic, Angular Material and Google's Firestore(NoSQLesque Data Store)."""
 
 +++

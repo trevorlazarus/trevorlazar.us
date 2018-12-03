@@ -11,30 +11,29 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Semantic Web",
+    "Distributed Ledeger Technologies",
+    "Embedded Systems Programming"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Knowledge Engineering with Semantic Web Technologies"
+  institution = "OpenHPI-Hasso Plattner Institut"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Tech in Information Technologies"
+  institution = "Loyola-ICAM College of Engineering and Technology"
+  year = 2014
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Trevor Michael Lazarus is a researcher/developer in distributed ledger and semantic technologies. His interests include decentralized scholarly publication, linked data and reactive programming paradigms.
+
+He is currently employed by Jaguar Land Rover and is awaiting his U.K. Visa. He plans to join the team at JLR's principle engineering centres in February, 2019.
+
