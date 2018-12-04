@@ -63,9 +63,9 @@ enableGitInfo = true
 
   # Details for the Contact Widget
   email = "trevormlazarus@gmail.com"
-  address = "No.10 Bank Street, Kilpauk, Chennai"
 
-  phone = "+33 6 49 23 89 87"
+
+
   keybase = "trevorlazarus"  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -262,6 +262,16 @@ enableGitInfo = true
 
   [[params.social]]
     icon = "github"
+    icon_pack = "fab"
+    link = "https://github.com/trevorlazarus"
+
+    [[params.social]]
+    icon = "keybase"
+    icon_pack = "fab"
+    link = "https://github.com/trevorlazarus"
+
+    [[params.social]]
+    icon = "gitlab"
     icon_pack = "fab"
     link = "https://github.com/trevorlazarus"
 
